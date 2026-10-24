@@ -4,6 +4,6 @@
   "minimum_supported_version": "3.2.18",
   "mandatory": true,
   "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.18/Anzal.NextCandle.Pro.USER.Setup.V3.2.18.exe",
-  "sha256": "b6ed39baee76057f57d4a3753918fb692d34c28fd48bed98f2e87f205a60194a",
-  "release_notes": "Production release V3.2.18. Mandatory updates are enforced when a newer version is published."
+  "sha256": "57ae154e4267b51b0feedf0ba2eb9ec3b1a6e779751bfe422390673a6bde98ea",
+  "release_notes": "Production release V3.2.18 with the official green bull Windows installer icon."
 }
