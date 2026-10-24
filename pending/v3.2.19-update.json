@@ -1,0 +1,9 @@
+{
+  "product": "Anzal NextCandle Pro",
+  "latest_version": "3.2.19",
+  "minimum_supported_version": "3.2.19",
+  "mandatory": true,
+  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.19/Anzal.NextCandle.Pro.USER.Setup.V3.2.19.exe",
+  "sha256": "d3c75e435ec1db0c5264ff6dccd47ebd6fab486ff6fc28f9621c2ae5b9f66792",
+  "release_notes": "V3.2.19 production hardening: chart loading fix, signed one-device licenses, API hardening and mandatory secure updater."
+}
