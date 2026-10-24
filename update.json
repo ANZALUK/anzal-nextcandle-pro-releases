@@ -1,0 +1,9 @@
+{
+  "product": "Anzal NextCandle Pro",
+  "latest_version": "3.2.18",
+  "minimum_supported_version": "3.2.18",
+  "mandatory": true,
+  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.18/Anzal.NextCandle.Pro.USER.Setup.V3.2.18.exe",
+  "sha256": "33a3df0ada2eff1eb8fd5644e8872985531395609ffa331f83eb338a70d6e63e",
+  "release_notes": "Production release V3.2.18. Mandatory updates are enforced when a newer version is published."
+}
