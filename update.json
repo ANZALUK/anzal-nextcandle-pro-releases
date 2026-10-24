@@ -1,9 +1,9 @@
 {
   "product": "Anzal NextCandle Pro",
-  "latest_version": "3.2.18",
-  "minimum_supported_version": "3.2.18",
+  "latest_version": "3.2.23",
+  "minimum_supported_version": "3.2.23",
   "mandatory": true,
-  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.18/Anzal.NextCandle.Pro.USER.Setup.V3.2.18.exe",
-  "sha256": "57ae154e4267b51b0feedf0ba2eb9ec3b1a6e779751bfe422390673a6bde98ea",
-  "release_notes": "Production release V3.2.18 with the official green bull Windows installer icon."
+  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.23/Anzal.NextCandle.Pro.USER.Setup.V3.2.23.exe",
+  "sha256": "e8bb8e13c50f0be5e5ea1118f719d4aef3ea90e5dc0736baef220540684e19d1",
+  "release_notes": "V3.2.23 official release: stable User/Admin compatibility, official support links, administrator approval warning, Admin port 8806, chart capture fix, existing license compatibility and secure updater."
 }
