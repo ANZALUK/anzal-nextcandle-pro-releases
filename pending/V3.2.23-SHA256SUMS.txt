@@ -1,0 +1,2 @@
+c1631ce02ae1392d3841b2a87d2865bb5449b5f43d392b3225a7b6ffd2c704fb  Anzal.NextCandle.Pro.USER.Setup.V3.2.23.exe
+dffecadf6a15ca2a80de153b249107037007a3e8f9770ccd5b144f840083dd4e  Anzal.NextCandle.Pro.ADMIN.Setup.V3.2.23.exe
