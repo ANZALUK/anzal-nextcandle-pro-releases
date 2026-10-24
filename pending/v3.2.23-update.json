@@ -1,0 +1,9 @@
+{
+  "product": "Anzal NextCandle Pro",
+  "latest_version": "3.2.23",
+  "minimum_supported_version": "3.2.23",
+  "mandatory": true,
+  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.23/Anzal.NextCandle.Pro.USER.Setup.V3.2.23.exe",
+  "sha256": "c1631ce02ae1392d3841b2a87d2865bb5449b5f43d392b3225a7b6ffd2c704fb",
+  "release_notes": "V3.2.23 final release candidate: stable User/Admin compatibility, Admin port 8806, chart capture fix, existing license compatibility and secure updater."
+}
