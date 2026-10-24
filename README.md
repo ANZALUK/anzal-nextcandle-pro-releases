@@ -1,20 +1,40 @@
-# Anzal NextCandle Pro — Public Releases
+# Anzal NextCandle Pro — Official Downloads
 
-Official public distribution channel for **Anzal NextCandle Pro**.
+Official public download repository for **Anzal NextCandle Pro**.
 
-## Current production version
-**V3.2.18**
+## Current Release Candidate
+**V3.2.23**
 
-Only end-user release files belong here. The full source code, Admin Panel source, credentials, runtime databases, licensing records and internal project files remain private.
+### How activation works
+1. Download and install the official User Setup from the GitHub Release.
+2. Create your software account.
+3. Enter your Quotex / Trading ID.
+4. Admin manually verifies the account, referral eligibility, Trading ID and qualifying deposit.
+5. After approval, Admin issues the license key.
+6. Activate the license inside the software to unlock access.
 
-## Automatic updates
-Installed copies check `update.json`. When a newer mandatory version is published, the application displays an update-required prompt and blocks normal use until the update is installed.
+> **Important:** Downloading or installing the software does not provide access by itself. Administrator verification and an approved license key are required.
 
-## Installer integrity
-Verify the USER installer against `SHA256SUMS.txt`.
+## Official Support / License Activation
+- **WhatsApp:** +92 3088012069
+- **Telegram:** @Ferixsoftwarepro
+- **Telegram:** https://t.me/FerixPro
+- **TikTok:** @tradewithanzal
+- **TikTok:** https://www.tiktok.com/@tradewithanzal
 
-**Current USER installer SHA-256**
+## Security Warning
+- Download only from this official GitHub repository/release.
+- Do not buy license keys from third parties.
+- Do not trust unofficial resellers, copied download pages, or impersonating social accounts.
+- Software access is enabled only after Admin verification.
+- Licenses are tied to the approved user/device under the software policy.
+- **Admin installer, owner files, private source code, databases, credentials and private keys are never distributed publicly.**
 
-`33a3df0ada2eff1eb8fd5644e8872985531395609ffa331f83eb338a70d6e63e`
+## Public Release Asset
+The public release should contain only the **USER installer**:
+`Anzal.NextCandle.Pro.USER.Setup.V3.2.23.exe`
 
-© Anzal NextCandle Pro / Trade with Anzal
+Verified USER SHA-256:
+`e8bb8e13c50f0be5e5ea1118f719d4aef3ea90e5dc0736baef220540684e19d1`
+
+**Trade with Anzal**
