@@ -1,0 +1,9 @@
+{
+  "product": "Anzal NextCandle Pro",
+  "latest_version": "3.2.24",
+  "minimum_supported_version": "3.2.24",
+  "mandatory": true,
+  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.24/Anzal.NextCandle.Pro.USER.Setup.V3.2.24.exe",
+  "sha256": "a46b494c7640b4fe0e3d45650549e2fab0aacef6b8d2cf028cd828b6350cf338",
+  "release_notes": "V3.2.24 UI Branding Update: dedicated multicolor Trade with Anzal heartbeat strip below the signal box, stronger Signal Engine watermark visibility, version alignment for User/Admin, scanner engine and licensing behavior unchanged."
+}
