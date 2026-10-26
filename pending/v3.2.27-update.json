@@ -1,0 +1,9 @@
+{
+  "product": "Ferix Software Pro",
+  "latest_version": "3.2.27",
+  "minimum_supported_version": "3.2.27",
+  "mandatory": true,
+  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/V3.2.27/Ferix.Software.Pro.USER.Setup.V3.2.27.exe",
+  "sha256": "e1a73c1542afdd0bd657070bb2fa492d4e4d60353342067bf159413b266d46a1",
+  "release_notes": "Ferix Software Pro V3.2.27: final branding, voice prompts, persistent Demo protection, refresh improvements, timed/lifetime licensing, and installer branding."
+}
