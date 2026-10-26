@@ -2,8 +2,8 @@
 
 Official public download repository for **Anzal NextCandle Pro**.
 
-## Current Release Candidate
-**V3.2.23**
+## Current Release
+**V3.2.26**
 
 ### How activation works
 1. Download and install the official User Setup from the GitHub Release.
@@ -31,10 +31,10 @@ Official public download repository for **Anzal NextCandle Pro**.
 - **Admin installer, owner files, private source code, databases, credentials and private keys are never distributed publicly.**
 
 ## Public Release Asset
-The public release should contain only the **USER installer**:
-`Anzal.NextCandle.Pro.USER.Setup.V3.2.23.exe`
+The public release contains the **USER installer**:
+`Anzal.NextCandle.Pro.USER.Setup.V3.2.26.exe`
 
 Verified USER SHA-256:
-`e8bb8e13c50f0be5e5ea1118f719d4aef3ea90e5dc0736baef220540684e19d1`
+`7ec3c3b3185396c9371c4dedb7a8b2e771a5cdf959f48744fe91f0a1273ceda7`
 
 **Trade with Anzal**
