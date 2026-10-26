@@ -1,9 +1,9 @@
 {
-  "product": "Anzal NextCandle Pro",
-  "latest_version": "V3.2.26",
-  "minimum_supported_version": "3.2.26",
+  "product": "Ferix Software Pro V2",
+  "latest_version": "3.2.27",
+  "minimum_supported_version": "3.2.27",
   "mandatory": true,
-  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/V3.2.26/Anzal.NextCandle.Pro.USER.Setup.V3.2.26.exe",
-  "sha256": "7ec3c3b3185396c9371c4dedb7a8b2e771a5cdf959f48744fe91f0a1273ceda7",
-  "release_notes": "V3.2.26 production release: Central API sync, one-device licensing, persistent Demo protection, linked trading session behavior, Trade with Anzal heartbeat positioned directly below the Signal/WAIT box, and corrected installer/uninstaller branding."
+  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/V3.2.27/Ferix.Software.Pro.V2.USER.Setup.exe",
+  "sha256": "e1a73c1542afdd0bd657070bb2fa492d4e4d60353342067bf159413b266d46a1",
+  "release_notes": "Ferix Software Pro V2: final branding, voice prompts, persistent Demo protection, refresh improvements, and lifetime/time-based licensing."
 }
