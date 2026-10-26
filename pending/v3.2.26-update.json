@@ -1,0 +1,9 @@
+{
+  "product": "Anzal NextCandle Pro",
+  "latest_version": "3.2.26",
+  "minimum_supported_version": "3.2.26",
+  "mandatory": true,
+  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/V3.2.26/Anzal.NextCandle.Pro.USER.Setup.V3.2.26.exe",
+  "sha256": "7ec3c3b3185396c9371c4dedb7a8b2e771a5cdf959f48744fe91f0a1273ceda7",
+  "release_notes": "V3.2.26 production release: Central API sync, one-device licensing, persistent Demo protection, linked trading session behavior, restored Trade with Anzal heartbeat placement, and corrected installer/uninstaller branding."
+}
