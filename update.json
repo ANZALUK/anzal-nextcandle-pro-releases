@@ -1,9 +1,9 @@
 {
   "product": "Ferix Software Pro V2",
-  "latest_version": "3.2.52",
-  "minimum_supported_version": "3.2.52",
+  "latest_version": "3.2.53",
+  "minimum_supported_version": "3.2.53",
   "mandatory": true,
-  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.52/Ferix.Software.Pro.V2.USER.Setup.V3.2.52.FINAL.exe",
-  "sha256": "a812208ca52464058dd6f0bb599792832df72802c20e8bc59ec3e5210b87c942",
-  "release_notes": "Ferix Software Pro V2 User Panel V3.2.52 baseline."
+  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.53/Ferix.Software.Pro.V2.User.Panel.V3.2.53.exe",
+  "sha256": "415ac81ac101506c9dbcad9eea0a132cd5a258a2051dfb5f215816c5b4a1aa42",
+  "release_notes": "Ferix Software Pro V2 User Panel V3.2.53 is the current working baseline with the dedicated Quotex window and corrected Windows service update flow."
 }
