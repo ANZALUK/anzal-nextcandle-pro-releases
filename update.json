@@ -1,9 +1,9 @@
 {
   "product": "Ferix Software Pro V2",
-  "latest_version": "3.2.53",
+  "latest_version": "3.2.52",
   "minimum_supported_version": "3.2.52",
   "mandatory": true,
-  "download_url": "https://github.com/ANZALUK/ferix-software-pro/releases/download/v3.2.53/Ferix.Software.Pro.V2.User.Panel.V3.2.53.exe",
-  "sha256": "c697806b115fc2e5b39ed562e67346bf63d3cbcfb50c48fb1a622b7063dd6abc",
-  "release_notes": "Ferix Software Pro V2 User Panel V3.2.53 restores the dedicated Quotex application-style trading window while preserving the production API, security, licensing, demo protection, scanner functionality, and online updater."
+  "download_url": "https://github.com/ANZALUK/ferix-software-pro/releases/download/v3.2.52/Ferix.Software.Pro.V2.USER.Setup.V3.2.52.FINAL.exe",
+  "sha256": "a812208ca52464058dd6f0bb599792832df72802c20e8bc59ec3e5210b87c942",
+  "release_notes": "Ferix Software Pro V2 User Panel V3.2.52 baseline."
 }
