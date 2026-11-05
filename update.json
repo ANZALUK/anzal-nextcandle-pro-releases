@@ -1,9 +1,9 @@
 {
   "product": "Ferix Software Pro V2",
-  "latest_version": "3.2.52",
+  "latest_version": "3.2.53",
   "minimum_supported_version": "3.2.52",
   "mandatory": true,
-  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.52/Ferix.Software.Pro.V2.USER.Setup.V3.2.52.FINAL.exe",
-  "sha256": "a812208ca52464058dd6f0bb599792832df72802c20e8bc59ec3e5210b87c942",
-  "release_notes": "Ferix Software Pro V2 User Panel V3.2.52 baseline."
+  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.53/Ferix.Software.Pro.V2.User.Panel.V3.2.53.exe",
+  "sha256": "9d0f1bf73ef3cee9e1260ee6cb53c0b31b8ec8f9b0a689337df781b5a3b95646",
+  "release_notes": "Ferix Software Pro V2 User Panel V3.2.53 restores the dedicated Quotex application-style trading window and includes the corrected Windows service installer update flow."
 }
