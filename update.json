@@ -1,9 +1,9 @@
 {
   "product": "Ferix Software Pro V2",
-  "latest_version": "3.2.27",
-  "minimum_supported_version": "3.2.27",
+  "latest_version": "3.2.52",
+  "minimum_supported_version": "3.2.52",
   "mandatory": true,
-  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/V3.2.27/Ferix.Software.Pro.V2.USER.Setup.exe",
-  "sha256": "e1a73c1542afdd0bd657070bb2fa492d4e4d60353342067bf159413b266d46a1",
-  "release_notes": "Ferix Software Pro V2: final branding, voice prompts, persistent Demo protection, refresh improvements, and lifetime/time-based licensing."
+  "download_url": "https://github.com/ANZALUK/ferix-software-pro/releases/download/v3.2.52/Ferix.Software.Pro.V2.USER.Setup.V3.2.52.FINAL.exe",
+  "sha256": "a812208ca52464058dd6f0bb599792832df72802c20e8bc59ec3e5210b87c942",
+  "release_notes": "Ferix Software Pro V2 User Panel V3.2.52: updated central API connection, future online auto-update support, official installer logo lock, secure authentication, protected license activation, single-device license control, and Windows desktop support."
 }
