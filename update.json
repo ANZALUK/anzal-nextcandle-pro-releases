@@ -3,7 +3,7 @@
   "latest_version": "3.2.54",
   "minimum_supported_version": "3.2.54",
   "mandatory": true,
-  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.54/Ferix.Software.Pro.V2.USER.Setup.V3.2.54.AUTO-UPDATE-READY.exe",
-  "sha256": "7c68966d52cd36cdef49a977aff05165e92c1cadbf6d883dcc5124562a2544f5",
-  "release_notes": "Original V3.2.49 Golden Master logic; confirmed Quotex UTC sync; 6-second preparation / 5-second final decision; labels; two-stage activation; original Bull icon and setup design; updater manifest URL enabled."
+  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.54/Ferix.Software.Pro.V2.USER.Setup.V3.2.54.AUTO-UPDATE-READY.1.exe",
+  "sha256": "7f7a5147f71f8e1b150f8a24e20ea0e05c02b1d7eadc41bf675c529ee9610708",
+  "release_notes": "V3.2.54 FINAL installer shutdown fix: stop and verify old Ferix services exit before installing; original Golden Master, timing, license gate, icons and app functionality retained."
 }
