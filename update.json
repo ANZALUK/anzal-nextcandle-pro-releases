@@ -1,9 +1,9 @@
 {
   "product": "Ferix Software Pro V2",
-  "latest_version": "3.2.54",
+  "latest_version": "3.2.56",
   "minimum_supported_version": "3.2.54",
   "mandatory": true,
-  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.54/Ferix.Software.Pro.V2.USER.Setup.V3.2.54.AUTO-UPDATE-READY.1.exe",
-  "sha256": "7f7a5147f71f8e1b150f8a24e20ea0e05c02b1d7eadc41bf675c529ee9610708",
-  "release_notes": "V3.2.54 FINAL installer shutdown fix: stop and verify old Ferix services exit before installing; original Golden Master, timing, license gate, icons and app functionality retained."
+  "download_url": "https://github.com/ANZALUK/anzal-nextcandle-pro-releases/releases/download/v3.2.56/Ferix.Software.Pro.V2.Golden49.V3.2.56.FINAL.exe",
+  "sha256": "3259b355319c3ff9b610bda2e26fa6477700231b25a95ba5ed5db14248c819e2",
+  "release_notes": "Ferix Software Pro V2 Golden49 V3.2.56 FINAL. Original Golden49 signal analysis logic retained; improved Start Trading and balanced default window size."
 }
